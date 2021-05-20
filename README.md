@@ -1,5 +1,4 @@
-### see the live demo here:
-(https://wonderful-benz-1c4e34.netlify.app/)
+### see the live demo [here](https://wonderful-benz-1c4e34.netlify.app/) :)
 
 
 # Getting Started with Create React App
